@@ -1,5 +1,5 @@
 ---
-title: 1st Week_Media Journal_Due on Jan 24th 7 a.m.
+title: 1st Week_Media Journal_Due on Jan 24th 8 a.m.
 author: ''
 date: '2020-01-16'
 slug: media-journal

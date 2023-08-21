@@ -1,1 +1,1 @@
-This is the Friday Discussion section with Hongtao Hao for MSCH-C101 at Indiana University Bloomington.
+This is the Monday & Thursday SI session with Kristen Zhang for COMM 2100: Introduction to COMM Theory at the University of North Carolina at Charlotte.
