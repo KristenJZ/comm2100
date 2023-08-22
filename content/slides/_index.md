@@ -4,7 +4,7 @@ title: Slides
 
 The order of these slide shows is only for reference. The organization of our SI sessions is flexible, and we can decide on the day whether to discuss the topics of the current week or the topics from the previous or following weeks.
 
-- Week 1 (Aug 21 - Aug 27): [Kick off and What is Theory?](https://comm2100.kristenjz.com/file/week_1.pdf)
+- Week 1 (Aug 21 - Aug 27): [Kick off and What is Theory?](https://comm2100.kristenjz.com/files/week_1.pdf)
 - Week 2 (Aug 28 - Sept 3): Theory Traditions
 - Week 3 (Sept 4 - Sept 10): Symbolic Interactionism + Expectancy Violations Theory
 - Week 4 (Sept 11 - Sept 17): Social Penetration Theory + Uncertainty Reduction Theory
