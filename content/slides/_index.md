@@ -2,15 +2,24 @@
 title: Slides
 ---
 
-- Slides of the 14th week [slides/fourteenth-week.html](/slides/14th-week-slides.html)
-- Slides of the 13th week [slides/thirteenth-week.html](/slides/13th-week-slides.html)
-- Slides of the 12th week [slides/twelfth-week.html](/slides/12th-week-slides.html)
-- Slides of the 6th week [slides/sixth-week.html](/slides/6th-week-slides.html)
-- Slides of the 5th week [slides/fifth-week.html](/slides/5th-week-slides.html)
-- Slides of the 4th week [slides/fourth-week.html](/slides/4th-week-slides.html)
-- Slides of the 3rd week [slides/third-week.html](/slides/3rd-week-slides.html)
-- Slides of the 2nd Week [slides/second-week.html](/slides/2nd-week-slides.html)
-- Slides of the 1st week [slides/first-week.html](/slides/1st-week-slides.html)
+The order of these slide shows is only for reference. The organization of our SI sessions is flexible, and we can decide on the day whether to discuss the topics of the current week or the topics from the previous or following weeks.
+
+- Week 1 (Aug 21 - Aug 27): [Kick off and What is Theory?](https://comm2100.kristenjz.com/file/week_1.pdf)
+- Week 2 (Aug 28 - Sept 3): Theory Traditions
+- Week 3 (Sept 4 - Sept 10): Symbolic Interactionism + Expectancy Violations Theory
+- Week 4 (Sept 11 - Sept 17): Social Penetration Theory + Uncertainty Reduction Theory
+- Week 5 (Sept 18 - Sept 24): Social Information Processing Theory + Relational Dialectics Theory
+- Week 6 (Sept 25 - Oct 1): Communication Privacy Management Theory + Media Multiplexity Theory
+- Week 7 (Oct 2 - Oct 8): Elaboration Likelihood Model
+- Week 8 (Oct 9 - Oct 15): Cognitive Dissonance Theory + Rhetoric
+- Week 9 (Oct 16 - Oct 22): Dramatism, Narrative, and Symbolic Convergence Theory
+- Week 10 (Oct 23 - Oct 29): Cultural Approaches
+- Week 11 (Oct 30 - Nov 5): Communicative Constitutions of Organizations
+- Week 12 (Nov 6 - Nov 12): Communication Accommodation theory + Face-negotiation Theory
+- Week 13 (Nov 13 - Nov 19): Muted Group Theory + Feminist Standpoint Theory
+- Week 14 (Nov 20 - Nov 26): Media Ecology + Uses and Gratifications
+- Week 15 (Nov 27 - Dec 3): Cultivation Theory + Agenda Setting
+- Week 16 (Dec 4 - Dec 7): Farewell.
 
 
 

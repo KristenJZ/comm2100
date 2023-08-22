@@ -2,14 +2,15 @@
 title: Home
 ---
 <p style="text-align:center;">
- <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif"  width="60%" height="50%"> 
+ <img src="https://media2.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=ecf05e47midg4xqaxqw7xq5383c2i6cnb55ukiv7qbvat1ru&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="60%" height="50%"> 
 </p>
 
-Hi, Welcome to C101 - the Discussion section of 8451 & 8452 with Hongtao Hao. This website is built to share with you the information about this class. You can use it to get access to information about assignment each week. I will also put my slides each week here. 
+Hi, Welcome to COMM2100 - the SI Session on Monday and Thursday with Kristen (Jing) Zhang. My name is Kristen (Jing) Zhang. I am your GTA for COMM 2100 this fall. This website is built to share with you the information about the sessions. You can use it to get access to information about the slides on sessions. During the sessions, I encourage you to express your opinions on every question and discuss with your peers.
+
+SI session: Mondays, 11 AM - 12 PM, CHHS 161; Thursdays, 3:30 - 4:30 PM, CHHS 380.
 
 Hope you enjoy the journey. We will make it great together!
 
---- Hongtao Hao
-
+--- Kristen (Jing) Zhang, Aug 2023
 
 

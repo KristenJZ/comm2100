@@ -18,7 +18,7 @@ body {
 
 strong,
 b {
-  color: red;
+  color: blue;
 }
 
 button, input, select, textarea, label {
@@ -476,7 +476,7 @@ thead, tfoot, tr:nth-child(even) {
     min-height: 100vh;
     border-right: 3px solid #ddd;
     background: #fafafa;
-    width: 250px;
+    width: 200px;
     padding: 2em 1em;
   }
   .main {
