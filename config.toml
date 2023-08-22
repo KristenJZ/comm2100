@@ -1,6 +1,6 @@
 baseURL = "https://comm2100.kristenjz.com/"
 languageCode = "en-us"
-title = "COMM2100 with Kristen"
+title = "COMM 2100 with Kristen"
 theme = "hugo-ivy"
 googleAnalytics = ""
 disqusShortname = ""
