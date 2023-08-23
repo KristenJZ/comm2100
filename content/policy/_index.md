@@ -4,10 +4,10 @@ title: Short Syllabus for SI Sessions
 
 ## Information
 
-GTA: Kristen (Jing) Zhang
-Email: jzhang77@charlotte.edu
-Office: COlVARD5043
-Office Hours: Tuesdays, 2-4 PM. Appoinment ahead of time would be better.
+- GTA: Kristen (Jing) Zhang
+- Email: jzhang77@charlotte.edu
+- Office: COlVARD5043
+- Office Hours: Tuesdays, 2-4 PM. Appoinment ahead of time would be better.
 
 ## Session objectives
 
