@@ -1,8 +1,8 @@
 ---
-title: Notes on the 1st-week class (Tuesday & Thursday,8/22,8/24)
+title: Notes on the 2nd-week class (Tuesday & Thursday,8/29,8/31)
 author: 'Kristen Zhang'
-date: '2023-08-21'
-slug: tues-1st-week
+date: '2023-08-29'
+slug: tues-2nd-week
 categories: []
 tags: []
 show_toc: true
