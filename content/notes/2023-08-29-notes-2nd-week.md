@@ -84,6 +84,54 @@ Objective scholars: put the theory out of the maths/models
 
    
 
+   ## 2nd Class, Thursday
+
+   #### Seven Traditions in Communication Studies - used as lens
+
+   1. socio-psychological tradition
+
+   2. cybernetic tradition: Communication is a system of information processing
+
+   3. Rhetorical studies: Communication as artful public address
+
+      use public speech to convince the listeners
+
+      - speech/that we can talk, distinguish humans from animals
+
+   4. Symbolic tradition: communication as the process of sharing meaning through signs
+
+      Anything can stand for something else. - depends on the interaction/culture
+
+   5. Socio-cultural tradition: Communication as the creation and enactment of social reality
+
+      We create and recreate the culture by talking. 
+
+      - SATIR WHORS: "Language shapes what people think and what they do."
+
+   6. Critical Traditions: communication as a reflective challenge to unjust discourse
+
+      Critical traditions believe that it's impossible to be objective. 
+
+   7. Phenomenological tradition: Communication as experiences of self and others through dialogue
+
+      Understanding others' stories, and how to grow/sustain relationships.
+
+      
+
+      The map of seven traditions: Some theories can be a mix of two/three traditions, but it's hard to mix traditions that are too different from each other. Like mixing the critical traditions and socio-psychological traditions.
+
+      
+
+      
+
+      
+
+      
+
+      
+
+   
+
    
 
    
