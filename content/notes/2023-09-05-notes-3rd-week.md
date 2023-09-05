@@ -60,7 +60,17 @@ Looking glass self: We learn who we are (the self) through our socially construc
 
 #### 3. Society
 
-The generalized other: the composite mental image of others in an overall community, their expectations, and possible response.
+The generalized other: the composite mental image of others in an overall community, their expectations, and possible responses. 
+
+- That's why trends become trends.
+- The more people in your generalized other, the harder to keep to society's expectations.
+- The more people around you, the more you become aware of yourself.
+
+#### 4. Applications
+
+1）Application for #1: The generalized other teaches us who "me" is in both positive and negative ways.
+
+
 
  
 
