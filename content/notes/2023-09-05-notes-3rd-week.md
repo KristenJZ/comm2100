@@ -53,11 +53,16 @@ Looking glass self: We learn who we are (the self) through our socially construc
 - The "self" concept will always change because of the different interactions with others.
 - **"I" vs "me":**
   - I: subjective, unpredictable, and even chaotic parts of ourselves.
-  - me: objective, the thing you understand about yourself.
+  - me: Objective, the thing you understand about yourself. 
+  - **The moment you become aware of yourself, it moves from I to me.**
+    - The real you: I.
+    - The reflection: me. 
 
 #### 3. Society
 
+The generalized other: the composite mental image of others in an overall community, their expectations, and possible response.
 
+ 
 
 
 
