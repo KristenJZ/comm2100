@@ -8,7 +8,7 @@ The order of these slide shows is only for reference. The organization of our SI
 
 - Week 2 (Aug 28 - Sept 3): [Theory Traditions](https://comm2100.kristenjz.com/files/week_2.pdf)
 
-- Week 3 (Sept 4 - Sept 10): Symbolic Interactionism + Expectancy Violations Theory
+- Week 3 (Sept 4 - Sept 10): [Symbolic Interactionism + Expectancy Violations Theory](https://comm2100.kristenjz.com/files/week_3.pdf)
 
 - Week 4 (Sept 11 - Sept 17): Social Penetration Theory + Uncertainty Reduction Theory
 
