@@ -70,6 +70,57 @@ The generalized other: the composite mental image of others in an overall commun
 
 1）Application for #1: The generalized other teaches us who "me" is in both positive and negative ways.
 
+2）Application for #2: self-fulfillling pophecy - the tendency for our expectations to evoke responses that confirm what we anticipated.
+
+our actions -> others belief -> others actions -> our beliefs
+
+#### 5. Critiques
+
+- does not calll for societal reform.
+- lacks aeshetic appeal: no organized design - not very simplistic.
+- Mead overstates his case.
+
+
+
+## 2nd Class, Thursday, Expectancy Violations Theory
+
+**A highly objective theory in interpersonal communication, in socio-psychological tradition**
+
+Theorist: Judee Burgoon
+
+She's interested in non-verbal communication and personal space.
+
+#### 1. Personal space: the invisible, variable volume of space surrounding an individual that defines their preferred distance from others.
+
+most people will be put in the social space (1.2m - 3.7m)
+
+#### 2. Core concept
+
+1）Expectancy: what is predicted to occur rather than what is desired.
+
+It depends on what is expected.
+
+- context: rely on cultural norms.
+  - Where is the interaction taking place and playing a role in the way you hope the interaction to  go?
+- relationship factors: 
+  - similarity, familarity, and like
+- communicator charatertistics: demographic factors, personal features, and how they communicate.
+
+2）Violation valence: the positive/negative value we place on an expected behavior.
+
+3）Communication reward valence: the sum of positive and negative attributes that the person has plu their potential to reward or punish.
+
+#### 3. Critique
+
+- Does not account reciprocity.
+- Is comm. valence or behavior valence more important?
+
+
+
+
+
+
+
 
 
  
