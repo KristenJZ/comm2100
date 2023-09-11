@@ -10,7 +10,7 @@ The order of these slide shows is only for reference. The organization of our SI
 
 - Week 3 (Sept 4 - Sept 10): [Symbolic Interactionism + Expectancy Violations Theory](https://comm2100.kristenjz.com/files/week_3.pdf)
 
-- Week 4 (Sept 11 - Sept 17): Social Penetration Theory + Uncertainty Reduction Theory
+- Week 4 (Sept 11 - Sept 17): [Social Penetration Theory + Uncertainty Reduction Theory](https://comm2100.kristenjz.com/files/week_4.pdf)
 
 - Week 5 (Sept 18 - Sept 24): Social Information Processing Theory + Relational Dialectics Theory
 
