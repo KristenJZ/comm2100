@@ -51,3 +51,91 @@ outcome (people regulate their closeness) = rewards - costs
 - Do people always act in their own interest?
   - This theory encourages selfishness, but in friendship, we can sacrifice.
 
+## 2nd Class, Thursday, Uncertainty Reduction Theory
+
+**A highly objective theory in the socio-psychological tradition.**
+
+Theorist: Charles Berger
+
+He was inspired by the idea that we have initial doubts about someone. Why did we choose to reduce uncertainty?
+
+- To anticipate the future interaction.
+- Incentive value: they have something you want
+- They act in a way that feels weird to you: deviate. You want to reduce the feeling.
+
+#### 1. Two ways of uncertainty
+
+behavioral+cognitive
+
+#### 2. Eight truths (axioms) about initial uncertainty
+
+axiom: self-evident truth that requires no additional testing/support
+
+1）verbal comunication 
+
+As verbal communication increases, uncertainty decreases.
+
+2）nonverbal warmth
+
+As nonverbal warmth increases, uncertainty decreases.
+
+3）information seeking
+
+High level of uncertainty will cause increase in information seeking behavior.
+
+4）self-disclosure
+
+High level of uncertainty will cause decrease in self-disclousre.
+
+5）reciprocity
+
+High level of uncertainty produce high risk of high reciprocity.
+
+6）similarity
+
+Similarity between persons reduces uncertainty.
+
+7）liking
+
+Increases in uncertainty level decreases liking.
+
+8）shared networks
+
+The more people you have in common, the less uncertain you will be about them (not necessary like them).
+
+#### 3. The axioms combine to create 28 theorems
+
+- "+" positive relationships
+- "-" negative relationships
+
+#### 4. Uncertainty reduction in intercultural situations
+
+uncertainty reduces anxiety
+
+#### 5. Relational turbulence theory
+
+explains how uncertainty affects people in ongoing relationships.
+
+- Interference can be a factor. When you goals are hindered.
+- Relational uncertainty (self, partner, and relationship) can be a factor.
+- Relational turbulence: react bigger because inference, uncertainty, etc.
+
+#### 6. How do emotions impact the management of uncertainty?
+
+The strength of the emotion is the motive force to contemplate three questions of efficacy.
+
+- coping efficacy: can I cope with what I might discover?
+- communication efficacy: do I have the skills it takes to seek information? Like asking the right question.
+- target efficacy: Will they give me honest information?
+
+#### 7. Information seeking to reduce uncertainty
+
+- passive
+- active: asking the third party for information.
+- interactive: engage in face-to-face discussion, asking them questions upon meeting them.
+- extractive
+
+
+
+
+
