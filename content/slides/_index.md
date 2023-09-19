@@ -12,7 +12,7 @@ The order of these slide shows is only for reference. The organization of our SI
 
 - Week 4 (Sept 11 - Sept 17): [Social Penetration Theory + Uncertainty Reduction Theory](https://comm2100.kristenjz.com/files/week_4.pdf)
 
-- Week 5 (Sept 18 - Sept 24): Social Information Processing Theory + Relational Dialectics Theory
+- Week 5 (Sept 18 - Sept 24): [Social Information Processing Theory + Relational Dialectics Theory](https://comm2100.kristenjz.com/files/week_5.pdf)
 
 - Week 6 (Sept 25 - Oct 1): Communication Privacy Management Theory + Media Multiplexity Theory
 
