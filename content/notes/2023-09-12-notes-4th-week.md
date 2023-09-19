@@ -135,6 +135,14 @@ The strength of the emotion is the motive force to contemplate three questions o
 - interactive: engage in face-to-face discussion, asking them questions upon meeting them.
 - extractive
 
+#### 8. Critiques
+
+- Theorems may be not true.
+- Reasons that reduce uncertainty not always hold up.
+- Uncertainty reduction may not drive our behavior.
+
+
+
 
 
 
