@@ -22,15 +22,15 @@ The order of these slide shows is only for reference. The organization of our SI
 
 - Week 9 (Oct 16 - Oct 22): Dramatism, Narrative, and Symbolic Convergence Theory
 
-- Week 10 (Oct 23 - Oct 29): Cultural Approaches
+- Week 10 (Oct 23 - Oct 29): Cultural Approaches to Organizations
 
 - Week 11 (Oct 30 - Nov 5): Communicative Constitutions of Organizations
 
-- Week 12 (Nov 6 - Nov 12): Communication Accommodation theory + Face-negotiation Theory
+- Week 12 (Nov 6 - Nov 12): Communication Accommodation theory + Face-negotiation Theory + Feminist Standpoint Theory
 
-- Week 13 (Nov 13 - Nov 19): Muted Group Theory + Feminist Standpoint Theory
+- Week 13 (Nov 13 - Nov 19): Muted Group Theory + Media & Culture
 
-- Week 14 (Nov 20 - Nov 26): Media Ecology + Uses and Gratifications
+- Week 14 (Nov 20 - Nov 26): Semiotics + Uses and Gratifications
 
 - Week 15 (Nov 27 - Dec 3): Cultivation Theory + Agenda Setting
 
