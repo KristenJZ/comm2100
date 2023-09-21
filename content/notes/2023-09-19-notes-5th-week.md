@@ -55,6 +55,69 @@ low warrant information: the information that can be manipulated easily
 
 
 
+## 2nd Class, Thursday, Relational Dialectics Theory
+
+A highly interpretive theory in the tradition of socio-cultural.
+
+Theorists: Leslie Baxter & Mikhail Bakhtin
+
+#### 1. Relational dialectics
+
+Concept: the dynamics and unceasing struggle between discourses about interpersonal relationships.
+
+Discourses can make up our relationships, and discourses can compete with each other.
+
+constitutive dialogue: communication that creates, sustains, and alters relationship and the social world.
+
+#### 2. Main dialectics to affect relationships
+
+Integration <—> Separation
+
+Stability <—> Change
+
+Expression <—> Non-expression
+
+e.g., traditional vs. modern; secretcy vs. transparency.
+
+#### 3. Internal dialectics vs. External dialectics
+
+External: competing the dialectics between the couple and their communities
+
+Internal: competing the dialectics between the couple themselves
+
+1）Internal dialectics
+
+Connection — Autonomy
+
+Certainty — Uncertainty
+
+Openness — Closedness
+
+2）External dialectics
+
+Inclusion — Seclusion
+
+Conventionality — Uniqueness
+
+Revolution — Concealment
+
+#### 4. seperation & Interplay
+
+Seperation: when we voice different discourses at different times
+
+Interplay: when we voice different discourses at the same time
+
+#### 5. Critique
+
+- RDT studies rely on self-report
+- Lacks aesthetic appeal: 
+
+
+
+
+
+
+
 
 
 
