@@ -1,7 +1,7 @@
 ---
 title: Notes on the 6th-week class (Tuesday & Thursday,9/26,9/28)
 author: 'Kristen Zhang'
-date: '2023-09-16'
+date: '2023-09-26'
 slug: 6th-week
 categories: []
 tags: []
@@ -58,4 +58,6 @@ The forms:
 
 - Lacks aesthetic appeal
 - How boundaries are created - no explanation
+
+
 
