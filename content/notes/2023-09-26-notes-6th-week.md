@@ -61,3 +61,41 @@ The forms:
 
 
 
+## 2. 2nd Class, Thursday, Media Multiplexity Theory
+
+**A more objective theory in the cybernetic and socio-psychological tradition**
+
+This is a theory that describes strong ties, weak ties, and bridge ties.
+
+- Strong ties use more media channels than weak ties, to continue.
+- Bridging ties allows information to pass to weak ties.
+
+#### 1. Tie strength is positively associated with media multiplexity
+
+#### 2. Communication content differs by strength, not by the medium
+
+e.g., maybe you share the same content with a kind of tie, even in multiple mediums
+
+Affordances: the medium can enable/constrain certain actions.
+
+#### 3. The strength and media cause one another over time
+
+When they come closer, they add more mediums.
+
+And when they add more mediums, they come closer.
+
+#### 4. Changes in the media landscape particularly influence weak ties
+
+For strong ties, even if you lose one medium, you still have multiple mediums.
+
+#### 5. Groups have hierarchies of media use expectations
+
+F2F Meeting -> Email -> Social Media -> Text
+
+It depends on the group norm, and social norm.
+
+#### 6. Critiques
+
+- Chicken and Egg: which comes first? - the relationship and multiple media use
+- Struggle to predict future events
+
