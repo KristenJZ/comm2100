@@ -7,12 +7,12 @@ title: Short Syllabus for SI Sessions
 - GTA: Kristen (Jing) Zhang
 - Email: jzhang77@charlotte.edu
 - Office: COlVARD5043
-- Office Hours: Tuesdays, 2-4 PM. Appoinment ahead of time would be better.
+- Office Hours: Tuesdays, 2-4 PM. Appointment ahead of time would be better.
 
 ## Session objectives
 
 Students should be able to
-- further reinforce the theories learned in lectures.
+- reinforce the theories learned in lectures.
 - understand the practical real-life applications of these theories through SI sessions.
 - engage in discussions with peers to establish communication-related dialogues.
 
@@ -26,7 +26,7 @@ Students should be able to
 ## Other GTA Policies
 
 - If you need assistance with your assignments, please contact me at least 24 hours before the deadline. I won’t be able to review your assignments and provide a response within a 24-hour timeframe.
-- I am not responsible for grading. If you have any questions regarding assignment, discussion, or exam grading, I’d be happy to help you get in touch with [Dr. Sayde Brais](https://www.linkedin.com/in/saydejbrais/).
+- I am not responsible for grading. If you have any questions regarding assignments, discussion, or exam grading, I’d be happy to help you get in touch with [Dr. Sayde Brais](https://www.linkedin.com/in/saydejbrais/).
 - If you require a response to your email, please allow me at least 24 hours to reply. I typically respond promptly. If you haven’t received a response after 48 hours, please send a follow-up.
 
 
