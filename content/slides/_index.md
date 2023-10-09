@@ -18,7 +18,7 @@ The order of these slide shows is only for reference. The organization of our SI
 
 - Week 7: [Elaboration Likelihood Model](https://comm2100.kristenjz.com/files/week_7.pdf)
 
-- Week 8: Cognitive Dissonance Theory + Rhetoric
+- Week 8: [Cognitive Dissonance Theory + Rhetoric](https://comm2100.kristenjz.com/files/week_8.pdf)
 
 - Week 9: Dramatism, Narrative, and Symbolic Convergence Theory
 
