@@ -20,7 +20,7 @@ The order of these slide shows is only for reference. The organization of our SI
 
 - Week 8: [Cognitive Dissonance Theory + Rhetoric](https://comm2100.kristenjz.com/files/week_8.pdf)
 
-- Week 9: Dramatism, Narrative, and Symbolic Convergence Theory
+- Week 9: [Dramatism, Narrative, and Symbolic Convergence Theory](https://comm2100.kristenjz.com/files/week_9.pdf)
 
 - Week 10: Cultural Approaches to Organizations
 
