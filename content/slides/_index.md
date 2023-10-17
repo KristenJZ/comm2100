@@ -20,19 +20,19 @@ The order of these slide shows is only for reference. The organization of our SI
 
 - Week 8: [Cognitive Dissonance Theory + Rhetoric](https://comm2100.kristenjz.com/files/week_8.pdf)
 
-- Week 9: [Dramatism, Narrative, and Symbolic Convergence Theory](https://comm2100.kristenjz.com/files/week_9.pdf)
+- Week 9–10: [Dramatism, Narrative, and Symbolic Convergence Theory](https://comm2100.kristenjz.com/files/week_9.pdf)
 
-- Week 10: Cultural Approaches to Organizations
+- Week 11: Cultural Approaches to Organizations
 
-- Week 11: Communicative Constitutions of Organizations
+- Week 12: Communicative Constitutions of Organizations
 
-- Week 12: Communication Accommodation theory + Face-negotiation Theory + Feminist Standpoint Theory
+- Week 13: Communication Accommodation theory + Face-negotiation Theory + Feminist Standpoint Theory
 
-- Week 13: Muted Group Theory + Media Ecology
+- Week 14: Muted Group Theory + Media Ecology
 
-- Week 14: Semiotics + Uses and Gratifications
+- Week 15: Semiotics + Uses and Gratifications
 
-- Week 15: Cultivation Theory + Agenda Setting
+- Week 16: Cultivation Theory + Agenda Setting
 
   
 
