@@ -26,6 +26,10 @@ footnotereturnlinkcontents = "↩"
     name = "Notes on Class"
     url = "/notes/"
     weight = 3
+[[menu.main]]
+    name = "Test Preparation"
+    url = "/test/"
+    weight = 4
 
 
 [markup]
