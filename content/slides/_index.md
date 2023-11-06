@@ -24,7 +24,7 @@ The order of these slide shows is only for reference. The organization of our SI
 
 - Week 11: [Cultural Approaches to Organizations + Communcative Constitutions of Organizations](https://comm2100.kristenjz.com/files/week_11.pdf)
 
-- Week 12: Communication Accommodation theory + Face-negotiation Theory + Feminist Standpoint Theory
+- Week 12: [Communication Accommodation theory + Face-negotiation Theory + Feminist Standpoint Theory](https://comm2100.kristenjz.com/files/week_12.pdf)
 
 - Week 13: Muted Group Theory + Media Ecology
 
