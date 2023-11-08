@@ -21,7 +21,7 @@ Students should be able to
 - Bring your textbook, supplementary materials, and notes to SI sessions. Reading the session slides before class can generate insightful discussions.
 - Show respect, whether it’s towards your classmates or your TA. Pay attention and actively participate in discussions when they speak. Most importantly, don’t let your phone and social media disrupt you during the session!
 - Attendance: Students are required to attend four SI Sessions throughout the semester for a participation grade, worth 5 points each session. Be prepared to show your Student ID Card (physical or mobile). However, students are strongly encouraged to attend SI sessions more frequently to gain maximum comprehension and application benefits.
-- Generally, the content discussed in the sessions on Tuesday and Thursday is the same. So, if you want to participate, please choose either one to attend. There’s no need to come on both Tuesday and Thursday.
+- Generally, the content discussed in the sessions on Monday and Thursday is the same. So, if you want to participate, please choose either one to attend. There’s no need to come on both Monday and Thursday.
 
 ## Other GTA Policies
 
