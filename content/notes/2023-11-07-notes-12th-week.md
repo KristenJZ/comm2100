@@ -8,7 +8,7 @@ tags: []
 show_toc: true
 ---
 
-## Tuesday, Communication Accommodation Theory
+## Communication Accommodation Theory
 
 A highly objective theory in the tradition of socio-psychological.
 
@@ -75,4 +75,68 @@ Cultural differences conflict.
 Individualistic: I-centered.
 
 Collectivistic: We-centered.
+
+#### 2. Type of self-construal
+
+Self-construal is the degree to which people conceive of themselves as autonomous from or connected to others.
+
+Even for people in individualistic culture, they an have collectivistic self-construal.
+
+#### 3. Type of face concern: Face concern regard for self-face, other-face, or mutual face (concern for both parties' images, and/or image of the relationship)
+
+- Face-restoration: Self-concerned facework strategy used to preserve autonomy.
+- Face-giving: Other-concerned facework strategy used to defend and support another person’s need for inclusion
+
+#### 4. Type of conflict management
+
+Three primary conflict management styles: dominance, avoidance, integration
+
+Self-face -> Dominance
+
+Other-face -> Avoidance
+
+Mutual-face -> Integration (win-win)
+
+e.g., Interdependent self-construal -> Other-face concern -> Apologies -> Forgiveness -> Mutual-face
+
+#### 5. Critiques
+
+- Measures are imprecise
+- People are part of multiple cultures at the same time.
+
+## Feminist Standpoint Theory
+
+A relatively interpretive theory in the tradition of critical.
+
+Critical scholars want to make changes, challenge unjustice.
+
+Theorists: Sandra Harding; Julia Wood.
+
+Basic assumption: people have difference opinions about the same situation.
+
+#### 1. Social location: our group memberships that shape our experiences of the worlds and our ways of understanding it
+
+Standpoint: a place from which to critically view the world around us.
+
+Standpoint poses the status quo.
+
+#### 2. Intersectionality: the idea that social identities and institutios (e.g., race, gender, class, sexuality) are interconnected
+
+All the parts constitute each other -> higher/lower your social identity
+
+Gender and other differneces are attributed to cultural expectations arising from how people talk about gender, etc.
+
+(That's why it's in the unit of culture)
+
+e.g., How women are looked at, depends on men.
+
+#### 3. Local Knowledge: the knowledge situated in time, place, experience, and relative power
+
+local knowledge is not subjective, and usually quite biased.
+
+Strong objectivity to drop local knowledge down.
+
+People with lots of power tend to subjective, bue people with less power tend to be objective – because they question more and have nothing to lose. Also, people with lots of power have no intention to change.
+
+
 
