@@ -26,15 +26,13 @@ The order of these slide shows is only for reference. The organization of our SI
 
 - Week 12: [Communication Accommodation theory + Face-negotiation Theory + Feminist Standpoint Theory](https://comm2100.kristenjz.com/files/week_12.pdf)
 
-- Week 13: Muted Group Theory + Media Ecology
+- Week 13: [Muted Group Theory + Media Ecology](https://comm2100.kristenjz.com/files/week_13.pdf)
 
 - Week 14: Semiotics + Uses and Gratifications
 
 - Week 15: Cultivation Theory + Agenda Setting
 
   
-
-
 
 
 
