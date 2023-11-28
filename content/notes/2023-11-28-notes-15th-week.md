@@ -82,6 +82,15 @@ see the connections they are trying to make.
 
 e.g., vote; vaccination.
 
+#### 5. Who sets the agenda: interest aggregation
+
+People who demand center stage for their one overriding concern.
+
+Agenda melding: melding agenda from various sources to create pictures of the world that fits our preferences.
+
+- vertical media: broad audiences.
+- horizontal media: niche audiences.
+
 
 
 
