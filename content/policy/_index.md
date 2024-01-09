@@ -7,7 +7,7 @@ title: Short Syllabus for SI Sessions
 - GTA: Kristen (Jing) Zhang
 - Email: jzhang77@charlotte.edu
 - Office: COlVARD5043
-- Office Hours: Tuesdays, 2-4 PM. Appointment ahead of time would be better.
+- Office Hours: Tuesdays, 2-4 PM (Zoom: https://charlotte-edu.zoom.us/my/jzhang77). Appointment ahead of time would be better.
 
 ## Session objectives
 
@@ -20,7 +20,7 @@ Students should be able to
 
 - Bring your textbook, supplementary materials, and notes to SI sessions. Reading the session slides before class can generate insightful discussions.
 - Show respect, whether it’s towards your classmates or your TA. Pay attention and actively participate in discussions when they speak. Most importantly, don’t let your phone and social media disrupt you during the session!
-- Attendance: Students are required to attend four SI Sessions throughout the semester for a participation grade, worth 5 points each session. Be prepared to show your Student ID Card (physical or mobile). However, students are strongly encouraged to attend SI sessions more frequently to gain maximum comprehension and application benefits.
+- Attendance: Students are required to attend four SI sessions (or PAL sessions) for extra 10 points. Be prepared to show your Student ID Card (physical or mobile). However, students are strongly encouraged to attend SI sessions more frequently to gain maximum comprehension and application benefits.
 - Generally, the content discussed in the sessions on Monday and Thursday is the same. So, if you want to participate, please choose either one to attend. There’s no need to come on both Monday and Thursday.
 
 ## Other GTA Policies
