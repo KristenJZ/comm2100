@@ -1,5 +1,5 @@
 ---
-title: Notes on the 1st-week class (Tuesday & Thursday,8/22,8/24)
+title: Notes on the 1st-week class (Communication and Theory)
 author: 'Kristen Zhang'
 date: '2023-08-21'
 slug: tues-1st-week
@@ -8,7 +8,7 @@ tags: []
 show_toc: true
 ---
 
-## 2nd Class, Thursday
+## Communication and Theory - the Concept
 
 ### 1. Communication is the relational process of creating and interpreting messages that elicit a response
 
