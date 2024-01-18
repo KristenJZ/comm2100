@@ -1,5 +1,5 @@
 ---
-title: Notes on the 2nd-week class (Tuesday & Thursday,8/29,8/31)
+title: Notes on the 1st-week(2nd) class (Theory Traditions and Standards)
 author: 'Kristen Zhang'
 date: '2023-08-29'
 slug: tues-2nd-week
