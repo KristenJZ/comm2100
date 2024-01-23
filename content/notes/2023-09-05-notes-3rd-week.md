@@ -1,5 +1,5 @@
 ---
-title: Notes on the 3rd-week class (Tuesday & Thursday,9/5,9/7)
+title: Notes on the 3rd-week class (Symbolic Interactionism Theory + Expectancy Violations Theory)
 author: 'Kristen Zhang'
 date: '2023-09-05'
 slug: 3rd-week
@@ -8,9 +8,9 @@ tags: []
 show_toc: true
 ---
 
-## 1st Class, Tuesday, Symbolic Interactionism Theory
+## Symbolic Interactionism Theory
 
-**A highly interpretive theory in the socio-cultural tradition.**
+**A highly interpretive theory in the socio-cultural tradition.** - people produce and reproduce culture in communication.
 
 Theorist: George Herbert Mead
 
@@ -58,7 +58,7 @@ Looking glass self: We learn who we are (the self) through our socially construc
     - The real you: I.
     - The reflection: me. 
 
-#### 3. Society
+#### 3. Society - the generalized other
 
 The generalized other: the composite mental image of others in an overall community, their expectations, and possible responses. 
 
@@ -82,7 +82,7 @@ our actions -> others belief -> others actions -> our beliefs
 
 
 
-## 2nd Class, Thursday, Expectancy Violations Theory
+## Expectancy Violations Theory
 
 **A highly objective theory in interpersonal communication, in socio-psychological tradition**
 
