@@ -14,6 +14,8 @@ show_toc: true
 
 Theorist: Irwin Altman & Dalmas Taylor
 
+- the theorists were interested how closeness is developed - through mutual self-disclosure
+
 #### 1. Metaphor: Onion - everyone has their comfort level of sharing themselves
 
 1）Closeness develops if individuals proceed in a gradual, orderly fashion from superficial to intimate.
@@ -34,12 +36,19 @@ depth: the degree of intimacy is going below (superficial-intimate-personal-core
   - Social pen is rapid at the beginning but slows down once the inner layers of the onion are reached.
   - Depenetration is a gradual process of layer-by-layer withdrawal.
 
-#### 2. The result
+#### 2. The result: how we regulate closeness
 
-outcome (people regulate their closeness) = rewards - costs
+1)outcome (people regulate their closeness) = rewards - costs (people always maximize rewards but minimize costs)
 
-- Comparison level: the threshold above which an outcome appears attractive
-- Compasison level of alternatives: evaluating other relationships' options at this moment
+We use comparison level and comparison level of alternative to compare the outcome. 
+
+- Comparison level (CL): the threshold above which an outcome appears attractive
+- Comparison level of alternatives (CLalt): evaluating other relationships' options at this moment
+- Optimum disclosure occurs when both parties believe outcome > CL > CLalt
+
+2)relationship satisfaction: is gauged using the CL which is the threshold above which a relational outcome appears attractive. (especially based past experiences)
+
+3)relationship stability: is gauged using CLalt, which is the best relational outcome currently available outside the relationship. (it's about the options at the current moment)
 
 #### 3. Critiques
 
