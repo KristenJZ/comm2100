@@ -1,5 +1,5 @@
 ---
-title: Notes on the 4th-week class (Tuesday & Thursday,9/12,9/14)
+title: Notes on the 4th-week class (Social Penetration Theory & Uncertainty Reduction Theory)
 author: 'Kristen Zhang'
 date: '2023-09-12'
 slug: 4th-week
@@ -119,7 +119,9 @@ The more people you have in common, the less uncertain you will be about them (n
 
 #### 4. Uncertainty reduction in intercultural situations
 
-uncertainty reduces anxiety
+when culture's different, that uncertainty is highly. The greater the culture gap, the larger the likelihood that uncertainty will be produced. 
+
+And uncertainty (thought) produces anxiety (feeling).
 
 #### 5. Relational turbulence theory
 
