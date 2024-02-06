@@ -1,5 +1,5 @@
 ---
-title: Notes on the 5th-week class (Tuesday & Thursday,9/19,9/21)
+title: Notes on the 5th-week class (Social Information Processing Theory & Relational Dialectics Theory)
 author: 'Kristen Zhang'
 date: '2023-09-19'
 slug: 5th-week
@@ -8,7 +8,7 @@ tags: []
 show_toc: true
 ---
 
-## 1st Class, Tuesday, Social Information Processing Theory
+## Social Information Processing Theory
 
 **A highly objective theory in the socio-psychological tradition.**
 
@@ -24,7 +24,7 @@ Assumption: Relationships grow only to the extent that people can gain informati
 
 Social Information —> Impression Formation —> Relationship Development
 
-- Previous studies about CMC used a cues-filtered-out approach
+- Previous studies about CMC used a **cues-filtered-out** approach
   - Communication is impersonal or task-oriented
   - F2F communication is richest due to verbal and nonverbal cue access
   - Unclear social context cues leads to flaming or toxicity
@@ -34,6 +34,7 @@ Social Information —> Impression Formation —> Relationship Development
 - Verbal cues can replace nonverbal cues is a key feature of CMC that allows us to convey the same meaning.
 - Extended time: allows us to exchange social information on our own time.
   - We can be more personal, and we can pause the time.
+  - People can develop their relationship through CMC if they can anticipate that they will have the opportunity of talking with others in the future.
 
 #### 3. Hyper-personal Perspective: CMC relationships may be more intimate than those developed face-to-face
 
@@ -55,7 +56,7 @@ low warrant information: the information that can be manipulated easily
 
 
 
-## 2nd Class, Thursday, Relational Dialectics Theory
+## Relational Dialectics Theory
 
 A highly interpretive theory in the tradition of socio-cultural.
 
