@@ -1,5 +1,5 @@
 ---
-title: Notes on the 6th-week class (Tuesday & Thursday,9/26,9/28)
+title: Notes on the 6th-week class (Communication Management Privacy, Media Multiplexity)
 author: 'Kristen Zhang'
 date: '2023-09-26'
 slug: 6th-week
@@ -8,7 +8,7 @@ tags: []
 show_toc: true
 ---
 
-## 1st Class, Tuesday, Communication Management Privacy 
+## Communication Management Privacy 
 
 **An interpretive theory in the tradition of socio-cultural**
 
@@ -61,7 +61,7 @@ The forms:
 
 
 
-## 2. 2nd Class, Thursday, Media Multiplexity Theory
+## Media Multiplexity Theory
 
 **A more objective theory in the cybernetic and socio-psychological tradition**
 
