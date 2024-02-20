@@ -10,7 +10,7 @@ show_toc: true
 
 ## Communication Management Privacy 
 
-**An interpretive theory in the tradition of socio-cultural**
+**An interpretive theory in the tradition of socio-cultural and cybernetic** 
 
 Theorist: Sandra Petronio
 
@@ -29,7 +29,7 @@ So we understand others' privacy through their rules.
 The rules could be influenced by:
 
 - culture
-- gender: e.g., women were supposed to share more information than men.
+- gender: e.g., women were supposed to share more information than men. Also, both genders tend to share more information with women.
 - motivation
 - context: context is more influential. Because when you talk to someone, that determines whether or not to talk about privacy.
 - risk/benefit ratio

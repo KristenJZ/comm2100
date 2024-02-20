@@ -1,5 +1,5 @@
 ---
-title: Notes on the 7th-week class (Tuesday & Thursday,10/3,10/5)
+title: Notes on the 7th-week class (Elaboration Likelihood Model)
 author: 'Kristen Zhang'
 date: '2023-10-05'
 slug: 7th-week
@@ -8,9 +8,7 @@ tags: []
 show_toc: true
 ---
 
-## 1st Class, Exam 1
-
-## 2nd Class, Thursday, Elaboration Likelihood Model
+## Elaboration Likelihood Model
 
 **A highly objective theory in the tradition of socio-psychological** (almost the most objective one)
 
@@ -50,7 +48,14 @@ Based on the speech quality and your initial attitude
 
 - Bias elaboration: top-down thinking. You bias attitude is covering from top to bottom, covering everything the speaker is going to say.
 
-#### 3. Peripheral Route
+#### 3. Outcomes
+
+- favorable case
+- unfavorable case
+- neutral case
+- Only central path cause strong attitude change, but peripheral route causes weak/no attitude change.
+
+#### 4. Peripheral Route
 
 Most of the time we make quick judgements, using the peripheral routes.
 
@@ -60,16 +65,16 @@ However, the attitude change is weak/no attitude change.
 
 If you use peripheral route, you might experience attitude change several times.
 
-- Reciprocation. "You own me."
+- Reciprocation. "You owe me."
 - Consistency. "We always use it."
-- Social proof. "Everybody is doing it."
-- Liking. You are persuaded by the person, not the message.
+- Social proof. "Everybody is doing it." （kind of peer pressure)
+- Liking. You are persuaded by the person, not the message. “You love me, and you love my ideas."
 - Authority. Someone in the authority role, and they are guiding you in the correct direction.
 - Scarcity. Pressure convince us to buy something. If we don't do it now, we will never do it again.
 
 The cues might overlap and happen simultaneously. 
 
-#### 4. Critique
+#### 5. Critique
 
 difficule to test.
 
