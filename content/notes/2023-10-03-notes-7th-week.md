@@ -1,5 +1,5 @@
 ---
-title: Notes on the 7th-week class (Elaboration Likelihood Model)
+title: Notes on the 7th-week class (Elaboration Likelihood Model&Cognitive Dissonance Theory)
 author: 'Kristen Zhang'
 date: '2023-10-05'
 slug: 7th-week
