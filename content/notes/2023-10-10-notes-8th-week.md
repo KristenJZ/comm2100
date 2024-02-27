@@ -1,5 +1,5 @@
 ---
-title: Notes on the 8th-week class (Tuesday & Thursday,10/10,10/12)
+title: Notes on the 8th-week class (Rhetoric, Dramatism, and Narative Paradigm)
 author: 'Kristen Zhang'
 date: '2023-10-10'
 slug: 8th-week
@@ -56,9 +56,9 @@ the perceived credibility as it is revealed through the message.
 
 Three components to credibility:
 
-- perceived intelligence.
+- perceived intelligence: practical wisdom.
 - virtuous character.
-- goodwill.
+- goodwill: do they have the best of the audiences' interest in heart?
 
 #### 3. Five Canons of rhetoric used for measuring the quality of a speaker
 
