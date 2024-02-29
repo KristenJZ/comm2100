@@ -127,6 +127,8 @@ It's a contrast between good and evil.
 
 #### 3. Identification is the common ground between the speaker and the audience
 
+the more they have in common with the audience, and the audience will be persuaded.
+
 #### 4. The dramatistic pentad is a tool critics can use to discern the motives of a speaker or writer by labeling five key elements of the human drama
 
 - Act: What is being done?
@@ -134,6 +136,44 @@ It's a contrast between good and evil.
 - Agent: Person doing the act.
 - Scene: Setting/Background for action.
 - Purpose: Reason/Rationale behind the action.
+
+#### 5. Critique
+
+- The idea is complex.
+- The strategies are controversial. 
+
+## Narrative Paradigm
+
+**A theory leaning to interpretive, in the tradition of rhetoric.**
+
+All communication other than common words, are considered stories.
+
+Theorist: Walther Fisher
+
+Assumption: people are storytelling animals. All communication is comprised of stories. 
+
+**Narration: involves symbolic actions that have sequence and meaning for those who live, create, or interpret them.**
+
+#### 1. Paradigm: a universal model that calls for people to view events through a common interpretive lens
+
+For this theory, paradigm shifts from the rational world to the narrative.
+
+Rational-world paradigm: a scientific or philosophical approach to knowledge that assumes people are logical.
+
+narrative paradigm: a theoretical framework that views narrative as the basis of all human communication.
+
+#### 2. Narrative rationality: a way to evaluate the worth of stories.
+
+Narrative coherence: the story sounds probable.
+
+Narrative fidelity: the story is true and humane.
+
+#### 3. Ideal audience: actual community existing over time that believes in the same value
+
+#### 4. Critique
+
+- Critics argue that Fisher is overly optimistic about the audience.
+- The narrative paradigm deneis the rhetoric of possibilities.
 
 
 
