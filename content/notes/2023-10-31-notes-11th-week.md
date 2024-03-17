@@ -1,5 +1,5 @@
 ---
-title: Notes on the 11th-week class (Cultural Approaches to Organizations)
+title: Notes on the 11th-week class (Communicative Constitution of Organization)
 author: 'Kristen Zhang'
 date: '2023-10-31'
 slug: 11th-week
@@ -8,34 +8,9 @@ tags: []
 show_toc: true
 ---
 
-## Tuesday, Cultural Approaches to Organizations + CCO
+## Communicative Constitution of Organization
 
-#### 1. Methodology: Ethnography
-
-- Who people in a culture think they are, what they think they are doing, and to what and they think they are doing it.
-- Highly interpretive
-- It starts from observation, and the object is to create thick description – cover thoughts, emotions, intentions, motives
-
-#### Three forms of communication
-
-which provided helpful access to the unique shared meanings within an organization
-
-- metaphor
-- stories
-  - Corporate story
-  - Personal story
-  - Collegial story
-- rituals
-
-#### Critism
-
-- Does not inform change
-- Does not challenge the status quo.
-- Based on interpretation, may not be trustful.
-
-#### 2. Communicative Constitution of Organization
-
-In socio-cultural tradition, relatively interpretive.
+**In socio-cultural tradition, relatively interpretive.**
 
 Basic Idea: Communication constitutes/creates organization.
 

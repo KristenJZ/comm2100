@@ -1,5 +1,5 @@
 ---
-title: Notes on the 10th-week class (Symbolic Convergence Theory)
+title: Notes on the 10th-week class (Symbolic Convergence Theory + Cultural Approaches to Organizations)
 author: 'Kristen Zhang'
 date: '2023-10-24'
 slug: 10th-week
@@ -62,3 +62,31 @@ Fantasy theme analysis: when symbolic convergence no longer in small group, but 
 - plot lines.
 - scene
 - sanctioning agent
+
+
+
+## Cultural Approaches to Organizations
+
+#### 1. Methodology: Ethnography
+
+- Who people in a culture think they are, what they think they are doing, and to what and they think they are doing it.
+- Highly interpretive
+- It starts from observation, and the object is to create thick description – cover thoughts, emotions, intentions, motives
+
+#### 2. Three forms of communication
+
+which provided helpful access to the unique shared meanings within an organization
+
+- metaphor
+- stories
+  - Corporate story
+  - Personal story
+  - Collegial story
+- rituals
+
+#### 3. Critism
+
+- Does not inform change
+- Does not challenge the status quo.
+- Based on interpretation, may not be trustful.
+
