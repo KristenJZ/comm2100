@@ -1,5 +1,5 @@
 ---
-title: Notes on the 11th-week class (Tuesday, 10/31)
+title: Notes on the 11th-week class (Cultural Approaches to Organizations)
 author: 'Kristen Zhang'
 date: '2023-10-31'
 slug: 11th-week
