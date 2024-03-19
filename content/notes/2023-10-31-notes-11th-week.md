@@ -12,6 +12,8 @@ show_toc: true
 
 **In socio-cultural tradition, relatively interpretive.**
 
+Theorist: Robert McPhee
+
 Basic Idea: Communication constitutes/creates organization.
 
 1）Constitution: Communication calls organizations into being
@@ -20,7 +22,7 @@ Sensemaking: Communication behaviors can reduce ambiguity.
 
 2）Four flows of communication
 
-- Membership negotiation: communication that regulates the extent to which a person is an organization member.
+- Membership negotiation: communication that regulates the extent to which a person is an organization member. [socialization - you are socializing into your role, and learning the land]
 - Self-structuring: communication that shapes the relationships among an organization's members – who is who
 - Activity coordination: communication that accomplishes the organization's work toward goals – how we get things done
 - Institutional positioning: communication between an organization and external entities
