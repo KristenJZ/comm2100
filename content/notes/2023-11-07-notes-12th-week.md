@@ -1,5 +1,5 @@
 ---
-title: Notes on the 12th-week class (Tuesday, 11/7, Thursday, 11/9)
+title: Notes on the 12th-week class (Communication Accomodation Theory + Face Negotiation Theory)
 author: 'Kristen Zhang'
 date: '2023-11-07'
 slug: 12th-week
@@ -12,7 +12,7 @@ show_toc: true
 
 A highly objective theory in the tradition of socio-psychological.
 
-Theorist: Howard Giles
+Theorist: Howard Giles (at UCSB)
 
 Assumption: While we talk with someone from a different background, we aim to achieve mutual understanding. So we accommodate the conversation to understand each other.
 
@@ -58,6 +58,11 @@ The following five will make people rely on social identity.
 - Steoreotypes
 - Norms for treatment of group.
 - High group-solidarity/group dependence.
+
+#### 5. Critiques
+
+- CAT does not have relative simplicity
+- CAT is not falsifiable.
 
 ## Face Negotiation Theory
 
