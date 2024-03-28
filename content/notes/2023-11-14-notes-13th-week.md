@@ -1,5 +1,5 @@
 ---
-title: Notes on the 13th-week class (Tuesday, 11/14)
+title: Notes on the 13th-week class (Feminist Standpoint Theory + Muted Group Theory)
 author: 'Kristen Zhang'
 date: '2023-11-14'
 slug: 13th-week
@@ -7,6 +7,40 @@ categories: []
 tags: []
 show_toc: true
 ---
+
+## Feminist Standpoint Theory
+
+A relatively interpretive theory in the tradition of critical.
+
+Critical scholars want to make changes, challenge unjustice.
+
+Theorists: Sandra Harding; Julia Wood.
+
+Basic assumption: people have difference opinions about the same situation.
+
+#### 1. Social location: our group memberships that shape our experiences of the worlds and our ways of understanding it
+
+Standpoint: a place from which to critically view the world around us.
+
+Standpoint poses the status quo.
+
+#### 2. Intersectionality: the idea that social identities and institutios (e.g., race, gender, class, sexuality) are interconnected
+
+All the parts constitute each other -> higher/lower your social identity
+
+Gender and other differneces are attributed to cultural expectations arising from how people talk about gender, etc.
+
+(That's why it's in the unit of culture)
+
+e.g., How women are looked at, depends on men.
+
+#### 3. Local Knowledge: the knowledge situated in time, place, experience, and relative power
+
+local knowledge is not subjective, and usually quite biased.
+
+Strong objectivity to drop local knowledge down.
+
+People with lots of power tend to subjective, bue people with less power tend to be objective – because they question more and have nothing to lose. Also, people with lots of power have no intention to change.
 
 ## Muted Group Theory
 

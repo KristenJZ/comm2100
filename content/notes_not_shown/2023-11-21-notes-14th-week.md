@@ -1,5 +1,5 @@
 ---
-title: Notes on the 14th-week class (Tuesday, 11/21)
+title: Notes on the 14th-week class (Tuesday, Semiotics + Uses and Gratifications)
 author: 'Kristen Zhang'
 date: '2023-11-21'
 slug: 14th-week
