@@ -1,5 +1,5 @@
 ---
-title: Notes on the 14th-week class (Tuesday, Semiotics + Uses and Gratifications)
+title: Notes on the 14th-week class (Semiotics + Uses and Gratifications)
 author: 'Kristen Zhang'
 date: '2023-11-21'
 slug: 14th-week
@@ -18,18 +18,26 @@ Theorist: Roland Barthes
 
 sign = signifier & signified
 
+signifier: the physical form or the thing we see.
+
+signified: the thing we can visualize based on the signifier (the meaning)
+
 #### 2. Two sign systems
 
 - Denotative sign system: a descriptive sign without ideological content
-- connotative sign system: a sign that has lost its historical referent
+- Connotative sign system: a sign that has lost its historical referent
+  - Therefore, it's about power status quo. People with more power will make the semiotics look natural, and conceal the power status.
+
 
 #### 3. Why semiotics in mass communication
 
-because media technology can spread it quickly
+Most semiotics signs, when then come into mass comm, they become buzzwords/memes, and then become part of the social culture.
+
+Media technology can spread it quickly. 
 
 #### 4. Critique
 
-- semiotics has not generated a large community of agreement.
+- Semiotics has not generated a large community of agreement.
 
 ## Uses and Gratifications
 
@@ -49,13 +57,13 @@ uniform effects model: It assumed that people are all effeced in the same way.
 
 #### 3. Assumption 3: Media compete for our time and attention
 
-#### 4. Assumption 4: Media effect different people differently
+#### 4. Assumption 4: Media affect different people differently
 
 #### 5. Assumption 5: People can accurately report their media use and motivation
 
 Classic eight motivations (developed on TV media)
 
-- Killing time.
+- Killing/passing time.
 - Social interaction.
 - Companionship.
 - Relaxation.
@@ -66,3 +74,7 @@ Classic eight motivations (developed on TV media)
 
 #### 6. Parasocial relationship: a sense of friendship or emotional attachment that develope between TV viewers and media personalities
 
+#### 7. Critiques
+
+- The theory stops at description.
+- The theory may not be testable.

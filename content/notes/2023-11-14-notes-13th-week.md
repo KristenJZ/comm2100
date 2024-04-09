@@ -1,5 +1,5 @@
 ---
-title: Notes on the 13th-week class (Feminist Standpoint Theory + Muted Group Theory)
+title: Notes on the 13th-week class (Feminist Standpoint Theory + Muted Group Theory + Media Ecology)
 author: 'Kristen Zhang'
 date: '2023-11-14'
 slug: 13th-week

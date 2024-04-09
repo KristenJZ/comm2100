@@ -1,5 +1,5 @@
 ---
-title: Notes on the 15th-week class (Tuesday, 11/28)
+title: Notes on the 15th-week class (Cultivation Theory and Agenda Setting)
 author: 'Kristen Zhang'
 date: '2023-11-28'
 slug: 15th-week
