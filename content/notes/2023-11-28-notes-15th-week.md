@@ -21,11 +21,11 @@ Also, Gerbner viewed TV as a story teller.
 #### 1. TV has changed in three ways since this theory was originally constructed.
 
 - Abundance of choices
-- One thing not change, is that many TV still emphasize on violence.
+-  One thing not change, is that many TV still emphasize on violence.
 
 #### 2. Prong 1: What's on TV - Message system analysis
 
-A careful study of TV content. What does content say?
+A careful study of TV content. - What does content say?
 
 Method: content analysis
 
@@ -78,7 +78,7 @@ Networked agenda setting.
 
 see the connections they are trying to make.
 
-#### 4. Media can shape behavior
+#### 4. Media can shape behavior - media effects
 
 e.g., vote; vaccination.
 
